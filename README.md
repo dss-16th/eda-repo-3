@@ -19,7 +19,7 @@
 ## 데이터 출처
 * [서울시 5대 범죄 발생 현황](http://data.seoul.go.kr/dataList/316/S/2/datasetView.do)
 * [서울시 공원 (1인당 공원면적) 현황](http://data.seoul.go.kr/dataList/360/S/2/datasetView.do)
-* [서울시 구별 가로등 현황](https://www.data.go.kr/tcs/dss/selectDataSetList.do?dType=TOTAL&keyword=%EC%84%9C%EC%9A%B8+%EA%B0%80%EB%A1%9C%EB%93%B1&detailKeyword=&publicDataPk=&recmSe=N&detailText=&relatedKeyword=&commaNotInData=&commaAndData=&commaOrData=&must_not=&tabId=&dataSetCoreTf=&coreDataNm=&sort=&relRadio=&orgFullName=&orgFilter=&org=&orgSearch=&currentPage=1&perPage=10&brm=%EA%B5%90%ED%86%B5%EB%AC%BC%EB%A5%98&instt=&svcType=&kwrdArray=&extsn=&coreDataNmArray=)
+* [서울시 구별 가로등 현황](http://data.seoul.go.kr/dataList/261/S/2/datasetView.do)
 * [서울시 구별 주민등록인구 현황](http://data.seoul.go.kr/dataList/419/S/2/datasetView.do)
 * [서울시 주민등록인구 (연령별/구별) 통계](http://data.seoul.go.kr/dataList/10718/S/2/datasetView.do)
-* [서울시 지구대 1개소당 시민수](https://www.data.go.kr/data/15046341/fileData.do)
+* [서울시 지구대/파출소 1개소당 시민수](http://data.seoul.go.kr/dataList/528/S/2/datasetView.do)
