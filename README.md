@@ -73,5 +73,4 @@
 
 ## 참조
 * [범죄 발생의 도시계획적 함의](http://kostat.go.kr/file_total/paper2005-1.pdf)
-* [도시 내 공원녹지공간이 범죄에 미치는 영향]
-(https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE01227581)
+* [도시 내 공원녹지공간이 범죄에 미치는 영향](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE01227581)
