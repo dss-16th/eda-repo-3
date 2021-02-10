@@ -42,10 +42,12 @@
 
 ![image](https://user-images.githubusercontent.com/75604413/107478433-cea6e580-6bbc-11eb-9560-2baa7a413ed1.png)
 
+![image](https://user-images.githubusercontent.com/75604413/107478218-72dc5c80-6bbc-11eb-82ad-8039f31cddc2.png)
+
 * [총유동인구 1000명 대비 총범죄율과 생활권공원면적 상관관계 비교]
    * -0.49의 음의 상관관계 도출. 생활권공원면적이 늘어날수록 총범죄율이 줄어드는 것을 확인.
    
-   ![image](https://user-images.githubusercontent.com/75604413/107478218-72dc5c80-6bbc-11eb-82ad-8039f31cddc2.png)
+ 
 
 * [유동인구와 지구대/파출소 수의 상관관계 비교]
 
