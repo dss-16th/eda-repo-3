@@ -40,9 +40,9 @@
 * [주민등록인구와 유동인구의 5대 범죄 총발생건수와의 상관관계 비교]
    * 각각 0.51과 0.79의 양의 상관관계가 나타남. 더 높은 상관관계를 가지는 유동인구를 기준으로, 범죄 데이터와 다양한 데이터셋을 통해 상관관계 탐색 예정
 
-![image](https://user-images.githubusercontent.com/75604413/107478433-cea6e580-6bbc-11eb-9560-2baa7a413ed1.png){: width="50" height="50"}
+![image](https://user-images.githubusercontent.com/75604413/107478433-cea6e580-6bbc-11eb-9560-2baa7a413ed1.png)
 
-![image](https://user-images.githubusercontent.com/75604413/107478218-72dc5c80-6bbc-11eb-82ad-8039f31cddc2.png){: width="50" height="50"}
+![image](https://user-images.githubusercontent.com/75604413/107478218-72dc5c80-6bbc-11eb-82ad-8039f31cddc2.png)
 
 * [총유동인구 1000명 대비 총범죄율과 생활권공원면적 상관관계 비교]
    * -0.49의 음의 상관관계 도출. 생활권공원면적이 늘어날수록 총범죄율이 줄어드는 것을 확인.
