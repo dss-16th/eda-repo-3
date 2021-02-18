@@ -43,23 +43,24 @@
   1. 주민등록인구/유동인구와 서울시 구별 5대 범죄발생 건수의 상관관계
   
      1-1. 주민등록인구 기준 전체 범죄 발생건수와 상관관계
-      <img width="727" src="https://user-images.githubusercontent.com/75604413/108394239-d9661800-7257-11eb-92fa-8c1437a7a5aa.png">
+        <img width="727" src="https://user-images.githubusercontent.com/75604413/108394239-d9661800-7257-11eb-92fa-8c1437a7a5aa.png">
+   
        * 각각 0.51과 0.79의 강한 양의 상관관계가 있었고 주민등록인구와 유동인구 모두 높은 범죄발생 건수와 높은 상관관계를 보였습니다. 그러나 유동인구가 비교적 매우 높고 강한 상관도를 나타내었습니다. 범죄발생 건수와 강한 상관도를 가지는 유동인구 기준으로, 다양한 데이터셋과의 상관관계를 도출하려 합니다. 
    
    
   2. 서울시 구별 5대 범죄 발생 건수 및 범죄발생률
   
      2-1. 서울시 구별 5대 범죄발생 건수
-      <img width="300" src="https://user-images.githubusercontent.com/75604413/108393191-c43cb980-7256-11eb-8fef-212e80e3620d.png">
+      <img src="https://user-images.githubusercontent.com/75604413/108393191-c43cb980-7256-11eb-8fef-212e80e3620d.png" width="50%" height="50%"/>
       2-2. 서울시 구별 5대 범죄발생률
-      <img width="300" src="https://user-images.githubusercontent.com/75604413/108393481-0e259f80-7257-11eb-9ed5-744c1ba29aee.png">
+      <img src="https://user-images.githubusercontent.com/75604413/108393481-0e259f80-7257-11eb-9ed5-744c1ba29aee.png" width="50%" height="50%"/>
   
   3. 범죄 발생 장소와 범죄 유형별 범죄발생률
     
-  <img width="300" src="https://user-images.githubusercontent.com/75604413/108393927-7e342580-7257-11eb-9259-58aa4a403a3a.png">
+  <img src="https://user-images.githubusercontent.com/75604413/108393927-7e342580-7257-11eb-9259-58aa4a403a3a.png" width="50%" height="50%"/>
     
   4. 5대 범죄 발생 건수와 지구대의 상관관계
-  <img width="300" src="https://user-images.githubusercontent.com/75604413/108397344-32837b00-725b-11eb-8733-09a7058b55c6.png">
+  <img src="https://user-images.githubusercontent.com/75604413/108397344-32837b00-725b-11eb-8733-09a7058b55c6.png" width="50%" height="50%"/>
 
 
 
