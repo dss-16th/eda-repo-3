@@ -23,15 +23,16 @@
 
 ## 데이터셋
   1. 서울시 열린데이터 광장
-    * [서울시 5대 범죄 발생 현황](http://data.seoul.go.kr/dataList/316/S/2/datasetView.do)
-    * [서울시 공원 (1인당 공원면적) 현황](http://data.seoul.go.kr/dataList/360/S/2/datasetView.do)
-    * [서울시 구별 가로등 현황](http://data.seoul.go.kr/dataList/261/S/2/datasetView.do)
-    * [서울시 구별 주민등록인구 현황](http://data.seoul.go.kr/dataList/419/S/2/datasetView.do)
-    * [서울시 주민등록인구 (연령별/구별) 통계](http://data.seoul.go.kr/dataList/10718/S/2/datasetView.do)
-    * [서울시 지구대/파출소/치안센터 수](http://data.seoul.go.kr/dataList/224/S/2/datasetView.do)
+  
+      * [서울시 5대 범죄 발생 현황](http://data.seoul.go.kr/dataList/316/S/2/datasetView.do)
+      * [서울시 공원 (1인당 공원면적) 현황](http://data.seoul.go.kr/dataList/360/S/2/datasetView.do)
+      * [서울시 구별 가로등 현황](http://data.seoul.go.kr/dataList/261/S/2/datasetView.do)
+      * [서울시 구별 주민등록인구 현황](http://data.seoul.go.kr/dataList/419/S/2/datasetView.do)
+      * [서울시 주민등록인구 (연령별/구별) 통계](http://data.seoul.go.kr/dataList/10718/S/2/datasetView.do)
+      * [서울시 지구대/파출소/치안센터 수](http://data.seoul.go.kr/dataList/224/S/2/datasetView.do)
   
   2. 한국 데이터 산업진흥원
-    * * [서울시 구별 유동인구 현황](http://datakorea.datastore.or.kr/profile/geo/04000KR11/#flow_top_bottom_private_data)
+     * [서울시 구별 유동인구 현황](http://datakorea.datastore.or.kr/profile/geo/04000KR11/#flow_top_bottom_private_data)
 
 ## 데이터 전처리
   1. 정규화
