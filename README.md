@@ -26,15 +26,16 @@
       - 범죄 종류별 발생건수 규모의 차이가 커, 그에 따른 왜곡을 방지하기 위함
       - 각 열에 대해 각각의 값을 최대값으로 나누어 0 ~ 1 사이의 값으로 변환
        - 예시
-          '''
+        ```
           crime[column] = crime[column] / crime[column].max()
-          ```
+        ```
+          
   2. 상관관계 분석
       - Pearson 상관계수 이용
        - 예시
-       '''
-       assault_rate_corr = assault_rate.corr(method='pearson')
-       '''
+         ```
+          assault_rate_corr = assault_rate.corr(method='pearson')
+         ```
                 
 
 ## 탐색적 분석 및 결과
