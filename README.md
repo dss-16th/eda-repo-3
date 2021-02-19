@@ -46,8 +46,11 @@
   2. 서울시 구별 5대 범죄 발생 건수 및 범죄발생률
   
      2-1. 서울시 구별 5대 범죄발생 건수
+     
       <img src="https://user-images.githubusercontent.com/75604413/108393191-c43cb980-7256-11eb-8fef-212e80e3620d.png" width="50%" height="50%"/>
+      
       2-2. 서울시 구별 5대 범죄발생률
+      
       <img src="https://user-images.githubusercontent.com/75604413/108393481-0e259f80-7257-11eb-9ed5-744c1ba29aee.png" width="50%" height="50%"/>
   
   3. 범죄 발생 장소와 범죄 유형별 범죄발생률
